@@ -12,6 +12,9 @@ import com.example.sqlite_01.helper.MyAdapter
 import com.example.sqlite_01.model.DatabaseHandler
 import kotlinx.android.synthetic.main.activity_main.*
 
+//nama:ahmad dani alfaza
+//kelas : TI4A/183140714111006
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
